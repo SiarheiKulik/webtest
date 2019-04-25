@@ -1,0 +1,9 @@
+<suite name="TestSuite">
+    <test name="AutoQA">
+        <classes>
+            <class name="pagefactory.test.HomePageTest" />
+            <class name="pagefactory.test.SingInPageTest" />
+            <class name="pagefactory.test.CreateAccountPageTest" />
+        </classes>
+    </test>
+</suite>
